@@ -53,6 +53,7 @@ export default defineGkdApp({
         'com.coolapk.market.view.base.SimpleAlphaActivity', // 缺少快照
         'com.coolapk.market.view.node.DynamicNodePageActivity',
         'com.coolapk.market.view.feed.FeedDetailActivityV8',
+        'com.coolapk.market.view.search.SuperSearchResultActivity',
       ],
       rules: [
         {
@@ -65,6 +66,7 @@ export default defineGkdApp({
           ],
           matches: [
             '[text*="广告"][visibleToUser=true]',
+            '[text*="大家还下载了"][visibleToUser=true]',
             '[id="com.coolapk.market:id/close_view"]',
           ],
           snapshotUrls: [
@@ -76,6 +78,8 @@ export default defineGkdApp({
             'https://i.gkd.li/i/14996359', // 避免误触
             'https://i.gkd.li/i/15159886', // 避免误触
             'https://i.gkd.li/i/15587119', // 避免误触
+            'https://i.gkd.li/i/16448265',
+            'https://i.gkd.li/i/16448385',
           ],
         },
         {

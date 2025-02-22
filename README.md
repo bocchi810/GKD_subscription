@@ -1,8 +1,8 @@
-# @AIsouler/GKD_subscription
+# @bocchi810/GKD_subscription
 
 ---
 
-## 已停止维护
+## ~~已停止维护~~ 停止维护个鬼，继续维护╰（‵□′）╯
 
 ## 声明
 
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_g
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=188)
+![img](https://contrib.rocks/image?repo=bocchi810/GKD_subscription&_v=188)
 
 ## Star History
 

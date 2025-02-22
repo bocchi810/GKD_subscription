@@ -1,11 +1,11 @@
 {
-  "name": "@aisouler/gkd_subscription",
+  "name": "@bocchi810/gkd_subscription",
   "version": "0.0.188",
   "type": "module",
   "gkd": {
     "outDir": "dist",
-    "file": "AIsouler_gkd.json5",
-    "versionFile": "AIsouler_gkd.version.json5",
+    "file": "bocchi810_gkd.json5",
+    "versionFile": "bocchi810_gkd.version.json5",
     "changelog": "CHANGELOG.md",
     "README.md": "README.md"
   },

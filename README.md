@@ -13,11 +13,11 @@
 
 - **仅启用 `开屏广告` 一类规则，其它所有规则均需手动打开，规则类别里可以批量开启某一类规则，建议按需开启规则，不要无脑开启规则，开启过多规则可能造成规则阻塞从而导致规则触发缓慢甚至不触发，并且规则开启越多耗电也越多 -> [点击查看耗电说明](https://gkd.li/guide/faq#power)**
 
-- **已适配的规则需要等待发布更新才能生效，在 `GKD订阅界面` 下拉就能检测是否有更新 -> [点击查看更新日志](https://github.com/AIsouler/GKD_subscription/releases)**
+- **已适配的规则需要等待发布更新才能生效，在 `GKD订阅界面` 下拉就能检测是否有更新 -> [点击查看更新日志](https://github.com/bocchi810/GKD_subscription/releases)**
 
-- **请求适配或报告问题 -> [点击反馈](https://github.com/AIsouler/GKD_subscription/issues/new/choose)**
+- **请求适配或报告问题 -> [点击反馈](https://github.com/bocchi810/GKD_subscription/issues/new/choose)**
 
-- **交流讨论 -> [点击查看或开启讨论](https://github.com/AIsouler/GKD_subscription/discussions)**
+- **交流讨论 -> [点击查看或开启讨论](https://github.com/bocchi810/GKD_subscription/discussions)**
 
 - **欢迎贡献规则，提交pr前请确认您已仔细阅读 [贡献指南](./CONTRIBUTING.md) 和 [API文档](https://gkd.li/api/)，规则编写可参考 [个人收集的通用规则以及适用场景](./Selectors.md)，让规则写起来更轻松！**
 
@@ -28,13 +28,13 @@
 - npmmirror源（大陆用户推荐）
 
 ```txt
-https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5
+https://registry.npmmirror.com/@bocchi810/gkd_subscription/latest/files/dist/bocchi810_gkd.json5
 ```
 
 - GitHub源
 
 ```txt
-https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
+https://raw.githubusercontent.com/bocchi810/GKD_subscription/main/dist/bocchi810_gkd.json5
 ```
 
 - 当前版本: v188
@@ -65,4 +65,4 @@ https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_g
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AIsouler/GKD_subscription&type=Date)](https://star-history.com/#AIsouler/GKD_subscription&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bocchi810/GKD_subscription&type=Date)](https://star-history.com/#bocchi810/GKD_subscription&Date)
